@@ -1,4 +1,4 @@
-# Electrical-Task-2-AlgorithemOfRobot
+# Electrical-Task-1-AlgorithemOfRobot
 # خوارزمية تشغيل محركات من نوع سيرفو موتر لتشكيل حركة مشي الروبوت
 للقيام بخطوة أمامية:
 # الطرف الأيمن:
